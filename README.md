@@ -1,2 +1,2 @@
 # JNetstat
-JavaFX application that displays Netstat's results in table view
+JavaFX application that displays Netstat's results in table view. Good for viewing used ports on system.
